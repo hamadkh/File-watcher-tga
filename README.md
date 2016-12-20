@@ -1,6 +1,6 @@
 # File-watcher-tga
 
-Simple File watcher Windows Forms appplication. Witten in c# .Net Framework 4.
+Simple File watcher Windows Forms appplication. Witten in C# .Net Framework 4.
 
 ##Features:
 
