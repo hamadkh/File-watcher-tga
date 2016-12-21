@@ -14,6 +14,6 @@ Simple File watcher Windows Forms appplication. Witten in C# .Net Framework 4.
 
 5. Adds files to listbox 
 
-6. Deletes files from lisbox 
+6. Deletes files from listbox 
 
 7. Shows preview of image selected in PictureBox
