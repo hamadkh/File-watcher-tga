@@ -2,7 +2,7 @@
 
 Simple File watcher Windows Forms appplication. Witten in C# .Net Framework 4.
 
-##Features:
+## Features:
 
 1. Browse to folder to be watched
 
